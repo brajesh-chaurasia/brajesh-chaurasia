@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Brajesh Chaurasia
 
-<!--
-**brajesh-chaurasia/brajesh-chaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech AIML Student | 👨‍💻 AI/ML Developer | 💡 Learning by Building Projects
 
-Here are some ideas to get you started:
+- 🔭 I’m currently building real-world AI & web projects for placement
+- 🌱 Learning: Python | Machine Learning | React | MERN | NLP
+- 💼 Open to Internships / Full-Time Roles
+- 🧠 Solving DSA on [LeetCode](https://leetcode.com/u/2213186/)
+- 📫 Reach me: 2k22.aimli.ng2.2213186@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+`Python` `Machine Learning` `Pandas` `Numpy` `Streamlit` `Flask` `React` `Node.js` `MongoDB`
+
+---
+
+## 🚀 My Projects (Coming Soon)
+- 🔹 AI Career Advisor Chatbot (GPT + Streamlit)
+- 🔹 Student Analytics Dashboard (Python + Streamlit)
+- 🔹 Disease Predictor (ML + Flask)
+- 🔹 Mini E-Commerce (React + Node + MongoDB)
