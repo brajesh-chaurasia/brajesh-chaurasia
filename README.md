@@ -3,24 +3,24 @@
   <img src="https://komarev.com/ghpvc/?username=brajesh-chaurasia&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
-<!-- Banner Heading -->
+<!-- Typing Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh98trivedi/readme-templates/main/images/coder.gif" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi%F0%9F%91%8B%2C+I'm+Brajesh+Chaurasia;B.Tech+AIML+Student+%7C+Focused+on+DSA+%26+Placements;Passionate+Coder+%7C+Problem+Solver+%F0%9F%A4%96" />
 </p>
 
-<!-- Animated Young Coder Image -->
+<!-- Coder Banner -->
 <p align="center">
-  <img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-LHWrJcsPFBWk2DcAlv7uPXoT/user-SObJQkRDjHKeelMd0jPtAiMv/img-KdCKE2oBrNVwTfQv0kJc10qt.png?st=2025-07-19T10%3A54%3A08Z&se=2025-07-19T12%3A54%3A08Z&sp=r&sv=2021-08-06&sr=b&sig=3UI08mcVQOynbnxUieZb8XTU6Nm2pgu5JKdb1RwLm%2Fo%3D" width="600"/>
+  <img src="https://raw.githubusercontent.com/harsh98trivedi/readme-templates/main/images/coder.gif" width="600"/>
 </p>
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** — PSIT, Kanpur (2022–2026)
-- 💡 Dedicated to learning **Data Structures**, **Problem Solving**, and **CS Fundamentals**
-- 💬 Open to collaborating on academic and placement-level projects
-- 📚 Strong grip on **Python, C++, and basic Web Development**
+- 🎓 B.Tech in **Artificial Intelligence & Machine Learning** — PSIT, Kanpur (2022–2026)
+- 💡 Focused on mastering **Data Structures**, **Algorithms**, and **CS Fundamentals**
+- 💬 Love building simple projects in Python, JavaScript, and React
+- 📚 Consistently solving problems on LeetCode and preparing for tech placements
 
 ---
 
@@ -49,10 +49,10 @@
 
 ## 📌 Pinned Projects
 
-- 🤖 **AI Chatbot (Python)** – A basic assistant to answer user queries
-- 📊 **Student Marks Analyzer** – Analyze marks with CLI/GUI
-- 📂 **DSA Practice Repo** – Structured LeetCode/GFG solutions
-- 🌐 **Portfolio Website (Coming Soon)**
+- 🤖 **AI Chatbot** – A basic conversational assistant using Python
+- 📊 **Student Marks Analyzer** – GUI/CLI app for analyzing academic data
+- 🧮 **DSA Practice Repo** – LeetCode + GFG problems with clean code
+- 🌐 **Portfolio Website** – (Coming Soon)
 
 ---
 
