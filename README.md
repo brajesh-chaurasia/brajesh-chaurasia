@@ -74,7 +74,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/brajesh-chaurasia/](https://www.linkedin.com/in/brajesh-chaurasia-b44326331)" target="_blank">
+  <a href="https://www.linkedin.com/in/brajesh-chaurasia-b44326331" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ig_brajesh_18" target="_blank">
