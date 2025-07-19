@@ -5,7 +5,7 @@
 
 <!-- Banner Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi%F0%9F%91%8B%2C+I'm+Brajesh+Chaurasia;B.Tech+AIML+Student+%7C+Focused+on+DSA+%26+Placements;Passionate+Coder+%7C+Problem+Solver+%F0%9F%A4%96" />
+  <img src="https://raw.githubusercontent.com/harsh98trivedi/readme-templates/main/images/coder.gif" width="600"/>
 </p>
 
 <!-- Animated Young Coder Image -->
