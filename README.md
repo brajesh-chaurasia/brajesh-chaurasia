@@ -8,19 +8,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Brajesh+Chaurasia+%F0%9F%91%8B;B.Tech+%7C+AIML+Student+%7C+PSIT+Kanpur;DSA+%26+Placement-Focused+Coder;Learning+Projects+%2B+Building+Future" />
 </p>
 
-<!-- Cool Coder Boy GIF -->
-<p align="center">
-  <img src="https://github.com/brajesh-chaurasia/brajesh-chaurasia/blob/main/cool-coder.gif?raw=true" width="600"/>
-</p>
-
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** — PSIT, Kanpur (2022–2026)
-- 💡 Focused on **DSA**, **OOPs**, and **CS Core Concepts**
-- 👨‍💻 Building projects in **Python, HTML/CSS, JavaScript, React, Node.js**
-- 🎯 Preparing daily with **LeetCode + HackerRank**
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 Pursuing <strong>B.Tech in Artificial Intelligence & Machine Learning</strong> — PSIT, Kanpur (2022–2026)</li>
+        <li>💡 Focused on <strong>DSA, OOPs, Web Development, and Placement Prep</strong></li>
+        <li>👨‍💻 Building projects using <strong>Python, React, MongoDB, Node.js</strong></li>
+        <li>🎯 Practicing consistently on <strong>LeetCode and HackerRank</strong></li>
+        <li>📬 Reach out: <code>brajeshchaurasia1833@gmail.com</code></li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://github.com/brajesh-chaurasia/brajesh-chaurasia/blob/main/cool-coder.gif?raw=true" width="220" />
+    </td>
+  </tr>
+</table>
 
 ---
 
