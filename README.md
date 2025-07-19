@@ -3,12 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=brajesh-chaurasia&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
-<!-- Typing Banner -->
+<!-- Typing Banner with Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi%F0%9F%91%8B%2C+I'm+Brajesh+Chaurasia;B.Tech+AIML+Student+%7C+Focused+on+DSA+%26+Placements;Passionate+Coder+%7C+Problem+Solver+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Brajesh+Chaurasia+%F0%9F%91%8B;B.Tech+%7C+AIML+Student+%7C+PSIT+Kanpur;DSA+%26+Placement-Focused+Coder;Learning+Projects+%2B+Building+Future" />
 </p>
 
-<!-- Coder Banner -->
+<!-- Cool Coder Boy Image -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/harsh98trivedi/readme-templates/main/images/coder.gif" width="600"/>
 </p>
@@ -17,10 +17,10 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence & Machine Learning** — PSIT, Kanpur (2022–2026)
-- 💡 Focused on mastering **Data Structures**, **Algorithms**, and **CS Fundamentals**
-- 💬 Love building simple projects in Python, JavaScript, and React
-- 📚 Consistently solving problems on LeetCode and preparing for tech placements
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** — PSIT, Kanpur (2022–2026)
+- 🔍 Currently focused on mastering **DSA**, **OOPs**, and **CS Core Subjects**
+- 💻 Building Python & Web projects with placement-level logic
+- 🎯 Practicing LeetCode daily to prepare for coding interviews
 
 ---
 
@@ -32,7 +32,9 @@
 
 ## 🧰 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,linux,figma,postgresql,mysql,bootstrap" />
+
+> 📌 Learning: **Machine Learning**, **Flask**, **Next.js**, and **DBMS Concepts**
 
 ---
 
@@ -49,10 +51,10 @@
 
 ## 📌 Pinned Projects
 
-- 🤖 **AI Chatbot** – A basic conversational assistant using Python
-- 📊 **Student Marks Analyzer** – GUI/CLI app for analyzing academic data
-- 🧮 **DSA Practice Repo** – LeetCode + GFG problems with clean code
-- 🌐 **Portfolio Website** – (Coming Soon)
+- 🤖 **AI Chatbot** – A simple NLP-based conversational chatbot
+- 📊 **Student Marks Analyzer** – Academic report analyzer using Python
+- 🧮 **DSA Practice Repo** – Clean LeetCode + GFG solutions
+- 🌐 **Portfolio Website** – (Coming Soon...)
 
 ---
 
@@ -72,4 +74,4 @@
 
 ---
 
-> 🚀 “Consistency beats talent – every single time.”
+> 🚀 “The secret to success is consistency and passion.”
