@@ -20,7 +20,7 @@
         <li>💡 Focused on <strong>DSA, OOPs, Web Development, and Placement Prep</strong></li>
         <li>👨‍💻 Building projects using <strong>Python, React, MongoDB, Node.js</strong></li>
         <li>🎯 Practicing consistently on <strong>LeetCode</strong></li>
-        <li>📬 Reach out: <code>brajeshchaurasia1833@gmail.com</code></li>
+        <li>📬 Reach out: <code>2k22.aimli.ng2.2213186@gmail.com</code></li>
       </ul>
     </td>
     <td align="center">
@@ -74,7 +74,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brajesh-chaurasia/" target="_blank">
+  <a href="[https://www.linkedin.com/in/brajesh-chaurasia/](https://www.linkedin.com/in/brajesh-chaurasia-b44326331)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ig_brajesh_18" target="_blank">
