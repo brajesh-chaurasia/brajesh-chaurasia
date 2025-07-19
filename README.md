@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Brajesh+Chaurasia+%F0%9F%91%8B;B.Tech+%7C+AIML+Student+%7C+PSIT+Kanpur;DSA+%26+Placement-Focused+Coder;Learning+Projects+%2B+Building+Future" />
 </p>
 
-<!-- Cool Coder Boy Image -->
+<!-- Cool Coder Boy GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh98trivedi/readme-templates/main/images/coder.gif" width="600"/>
+  <img src="https://github.com/brajesh-chaurasia/brajesh-chaurasia/blob/main/cool-coder.gif?raw=true" width="600"/>
 </p>
 
 ---
@@ -18,23 +18,45 @@
 ## 👨‍🎓 About Me
 
 - 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** — PSIT, Kanpur (2022–2026)
-- 🔍 Currently focused on mastering **DSA**, **OOPs**, and **CS Core Subjects**
-- 💻 Building Python & Web projects with placement-level logic
-- 🎯 Practicing LeetCode daily to prepare for coding interviews
+- 💡 Focused on **DSA**, **OOPs**, and **CS Core Concepts**
+- 👨‍💻 Building projects in **Python, HTML/CSS, JavaScript, React, Node.js**
+- 🎯 Preparing daily with **LeetCode + HackerRank**
+
+---
+
+## 📄 Resume
+
+<p align="right">
+  <a href="https://github.com/brajesh-chaurasia/brajesh-chaurasia/blob/main/Brajesh_Chaurasia_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Resume-Click%20to%20Download-lightgrey?style=flat-square&logo=readthedocs&logoColor=black" />
+  </a>
+</p>
 
 ---
 
 ## 📊 Coding Profiles
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/2213186?theme=dark&font=Consolas&ext=activity)](https://leetcode.com/u/2213186/)
+<p align="center">
+  <a href="https://leetcode.com/u/2213186/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/2213186?theme=dark&font=Consolas&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Aiml1_0065" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🧰 Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,linux,figma,postgresql,mysql,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,linux,figma,postgresql,mysql,bootstrap" />
+</p>
 
-> 📌 Learning: **Machine Learning**, **Flask**, **Next.js**, and **DBMS Concepts**
+> 📌 Learning: **Flask**, **Machine Learning**, **Next.js**, and **DBMS Concepts**
 
 ---
 
@@ -51,10 +73,10 @@
 
 ## 📌 Pinned Projects
 
-- 🤖 **AI Chatbot** – A simple NLP-based conversational chatbot
-- 📊 **Student Marks Analyzer** – Academic report analyzer using Python
-- 🧮 **DSA Practice Repo** – Clean LeetCode + GFG solutions
-- 🌐 **Portfolio Website** – (Coming Soon...)
+- 🤖 **AI Chatbot** – Rule-based chatbot using Python  
+- 📊 **Student Marks Analyzer** – Academic tool using loops & conditionals  
+- 🧠 **DSA Practice Repo** – LeetCode + GFG structured practice  
+- 🌐 **Portfolio Website** – Coming Soon...
 
 ---
 
@@ -74,4 +96,4 @@
 
 ---
 
-> 🚀 “The secret to success is consistency and passion.”
+> 🚀 *“The secret to success is consistency and passion.”*
