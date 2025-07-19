@@ -1,26 +1,26 @@
-<!-- Profile views counter -->
+<!-- Profile views -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=brajesh-chaurasia&label=Profile+Views&color=blue&style=flat" alt="brajesh-chaurasia" />
+  <img src="https://komarev.com/ghpvc/?username=brajesh-chaurasia&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
-<!-- Typing SVG header -->
+<!-- Banner Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+Brajesh+Chaurasia;B.Tech+AIML+Student+%7C+DSA+Enthusiast;Focused+on+Placements+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi%F0%9F%91%8B%2C+I'm+Brajesh+Chaurasia;B.Tech+AIML+Student+%7C+Focused+on+DSA+%26+Placements;Passionate+Coder+%7C+Problem+Solver+%F0%9F%A4%96" />
 </p>
 
-<!-- Banner image -->
+<!-- Animated Young Coder Image -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
+  <img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-LHWrJcsPFBWk2DcAlv7uPXoT/user-SObJQkRDjHKeelMd0jPtAiMv/img-KdCKE2oBrNVwTfQv0kJc10qt.png?st=2025-07-19T10%3A54%3A08Z&se=2025-07-19T12%3A54%3A08Z&sp=r&sv=2021-08-06&sr=b&sig=3UI08mcVQOynbnxUieZb8XTU6Nm2pgu5JKdb1RwLm%2Fo%3D" width="600"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍🎓 About Me
 
-- 🎓 B.Tech in **Artificial Intelligence & Machine Learning**, PSIT Kanpur (2022–2026)
-- 📌 Focus: **Data Structures**, **Problem Solving**, and **Placement-Oriented Projects**
-- 💬 Love building simple Python & JS projects and solving real-world coding challenges
-- 📚 Learning System Design, DBMS, OOPs, and CS fundamentals
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** — PSIT, Kanpur (2022–2026)
+- 💡 Dedicated to learning **Data Structures**, **Problem Solving**, and **CS Fundamentals**
+- 💬 Open to collaborating on academic and placement-level projects
+- 📚 Strong grip on **Python, C++, and basic Web Development**
 
 ---
 
@@ -38,18 +38,20 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brajesh-chaurasia&show_icons=true&theme=github_dark&count_private=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brajesh-chaurasia&theme=github-dark" width="45%"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=brajesh-chaurasia&show_icons=true&theme=github_dark&count_private=true" height="200"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=brajesh-chaurasia&theme=github-dark" height="200"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 📌 Pinned Projects
 
-- 🤖 **Chatbot (Python)** – Basic conversational assistant project
-- 📊 **Student Marks Analyzer** – CLI/GUI app for analyzing and reporting marks
-- 📂 **DSA Solutions** – Clean, well-commented DSA problems
+- 🤖 **AI Chatbot (Python)** – A basic assistant to answer user queries
+- 📊 **Student Marks Analyzer** – Analyze marks with CLI/GUI
+- 📂 **DSA Practice Repo** – Structured LeetCode/GFG solutions
 - 🌐 **Portfolio Website (Coming Soon)**
 
 ---
@@ -64,10 +66,10 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/brajesh-chaurasia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> “Consistency beats talent – every single time.” 🚀
+> 🚀 “Consistency beats talent – every single time.”
