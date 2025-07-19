@@ -19,7 +19,7 @@
         <li>🎓 Pursuing <strong>B.Tech in Artificial Intelligence & Machine Learning</strong> — PSIT, Kanpur (2022–2026)</li>
         <li>💡 Focused on <strong>DSA, OOPs, Web Development, and Placement Prep</strong></li>
         <li>👨‍💻 Building projects using <strong>Python, React, MongoDB, Node.js</strong></li>
-        <li>🎯 Practicing consistently on <strong>LeetCode and HackerRank</strong></li>
+        <li>🎯 Practicing consistently on <strong>LeetCode</strong></li>
         <li>📬 Reach out: <code>brajeshchaurasia1833@gmail.com</code></li>
       </ul>
     </td>
@@ -31,27 +31,11 @@
 
 ---
 
-## 📄 Resume
-
-<p align="right">
-  <a href="https://github.com/brajesh-chaurasia/brajesh-chaurasia/blob/main/Brajesh_Chaurasia_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Resume-Click%20to%20Download-lightgrey?style=flat-square&logo=readthedocs&logoColor=black" />
-  </a>
-</p>
-
----
-
 ## 📊 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/2213186/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/2213186?theme=dark&font=Consolas&ext=activity" alt="LeetCode Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/Aiml1_0065" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
 
