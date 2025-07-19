@@ -1,26 +1,42 @@
-<!-- Profile views -->
+<!-- 👁️ Profile Views (Option: Real-Time OR Fixed 1K+) -->
+<!-- Option 1: Real-time views (Keep this if you want actual count) -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=brajesh-chaurasia&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
-<!-- Typing Banner with Name -->
+<!-- Option 2: Always show 1K+ (use this instead if you prefer fixed) -->
+<!-- <p align="right">
+  <img src="https://img.shields.io/badge/Profile%20Views-1K%2B-blue?style=flat-square" />
+</p> -->
+
+<!-- 🧠 Typing Animation Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Brajesh+Chaurasia+%F0%9F%91%8B;B.Tech+%7C+AIML+Student+%7C+PSIT+Kanpur;DSA+%26+Placement-Focused+Coder;Learning+Projects+%2B+Building+Future" />
 </p>
 
-<!-- Cool Coder Boy Image -->
+<!-- 👨‍💻 Coder Boy Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh98trivedi/readme-templates/main/images/coder.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/harsh98trivedi/readme-templates/main/images/coder.gif" width="600" />
 </p>
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning** — PSIT, Kanpur (2022–2026)
-- 🔍 Currently focused on mastering **DSA**, **OOPs**, and **CS Core Subjects**
-- 💻 Building Python & Web projects with placement-level logic
-- 🎯 Practicing LeetCode daily to prepare for coding interviews
+- 🎓 **B.Tech in AIML** – Pranveer Singh Institute of Technology (2022–2026)
+- 💡 Focused on **DSA**, **Core CS Subjects**, and **Placement Preparation**
+- 👨‍💻 Regularly solving problems on **LeetCode**
+- 🛠️ Building mini projects in **Python**, **Web**, and **Machine Learning**
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://github.com/brajesh-chaurasia/brajesh-chaurasia/blob/main/Brajesh_Chaurasia_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -34,7 +50,7 @@
 
 <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,vscode,linux,figma,postgresql,mysql,bootstrap" />
 
-> 📌 Learning: **Machine Learning**, **Flask**, **Next.js**, and **DBMS Concepts**
+> 🔄 Currently learning: **Flask**, **Next.js**, **System Design**, and **DBMS**
 
 ---
 
@@ -51,10 +67,10 @@
 
 ## 📌 Pinned Projects
 
-- 🤖 **AI Chatbot** – A simple NLP-based conversational chatbot
-- 📊 **Student Marks Analyzer** – Academic report analyzer using Python
-- 🧮 **DSA Practice Repo** – Clean LeetCode + GFG solutions
-- 🌐 **Portfolio Website** – (Coming Soon...)
+- 🤖 **AI Chatbot** – NLP-based basic chatbot in Python
+- 📊 **Student Marks Analyzer** – Academic data analysis project
+- 🧠 **DSA Practice Repo** – LeetCode and GFG solutions with structure
+- 🌐 **Portfolio Website** – Coming Soon...
 
 ---
 
@@ -74,4 +90,4 @@
 
 ---
 
-> 🚀 “The secret to success is consistency and passion.”
+> 🚀 *“The secret to success is consistency and passion.”*
