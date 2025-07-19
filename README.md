@@ -20,3 +20,4 @@
 - 🔹 Student Analytics Dashboard (Python + Streamlit)
 - 🔹 Disease Predictor (ML + Flask)
 - 🔹 Mini E-Commerce (React + Node + MongoDB)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/2213186?theme=dark&font=Consolas&ext=activity)](https://leetcode.com/u/2213186/)
