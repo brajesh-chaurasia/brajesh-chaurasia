@@ -55,7 +55,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brajesh-chaurasia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=brajesh-chaurasia&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </p>
 
 <p align="center">
