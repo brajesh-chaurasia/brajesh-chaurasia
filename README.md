@@ -53,14 +53,15 @@
 
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=brajesh-chaurasia&show_icons=true&theme=github_dark&count_private=true" height="200"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=brajesh-chaurasia&theme=github-dark" height="200"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brajesh-chaurasia&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brajesh-chaurasia&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="200" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brajesh-chaurasia&theme=github-compact&area=true&custom_title=My%20Contribution%20Graph" />
+</p>
+
 
 ## 📌 Pinned Projects
 
