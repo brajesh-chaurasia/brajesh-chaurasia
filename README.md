@@ -33,30 +33,11 @@
 
 ## 📊 Coding Profiles
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <!-- LinkedIn Profile Badge -->
-      <div align="center">
-        <a href="https://www.linkedin.com/in/brajesh-chaurasia/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-        </a>
-        <br/>
-        <a href="https://www.linkedin.com/in/brajesh-chaurasia/" target="_blank">
-          <img src="https://media.licdn.com/dms/image/D4D03AQHoRNeDyN-FCw/profile-displayphoto-shrink_800_800/0/1708586021633?e=2147483647&v=beta&t=3fGp2m0kjgtAqNdk2yRkDwpy9y9A8jc5k7RV6m7EpUI" width="120" height="120" style="border-radius: 50%;" alt="LinkedIn Profile" />
-          <br/>
-          <strong>Brajesh Chaurasia</strong><br/>AIML @ PSIT Kanpur
-        </a>
-      </div>
-    </td>
-    <td align="center" width="50%">
-      <!-- LeetCode Profile -->
-      <a href="https://leetcode.com/u/2213186/" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/2213186?theme=dark&font=Consolas&ext=activity" alt="LeetCode Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://leetcode.com/u/2213186/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/2213186?theme=dark&font=Consolas&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
@@ -72,11 +53,12 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brajesh-chaurasia&show_icons=true&theme=github_dark&count_private=true" height="200"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brajesh-chaurasia&theme=github-dark" height="200"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=brajesh-chaurasia&show_icons=true&theme=github_dark&count_private=true" height="200"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=brajesh-chaurasia&theme=github-dark" height="200"/></td>
+  </tr>
+</table>
 
 ---
 
