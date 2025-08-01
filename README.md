@@ -74,7 +74,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/brajesh-chaurasia-b44326331" target="_blank">
+  <a href="https://www.linkedin.com/in/brajesh-chaurasia/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ig_brajesh_18" target="_blank">
@@ -83,6 +83,15 @@
   <a href="https://github.com/brajesh-chaurasia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<!-- LinkedIn Badge -->
+<p align="center">
+  <div align="center" style="display: flex; justify-content: center;">
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="brajesh-chaurasia" data-version="v1">
+      <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/brajesh-chaurasia?trk=profile-badge">Brajesh Chaurasia</a>
+    </div>
+  </div>
 </p>
 
 ---
