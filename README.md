@@ -66,8 +66,8 @@
 
 ## 📌 Pinned Projects
 
-- 🤖 **AI Chatbot** – Rule-based chatbot using Python  
-- 📊 **Student Marks Analyzer** – Academic tool using loops & conditionals  
+- 🤖 **Intelligent-Conversational-Chatbot-using-Python-&-Java** – Rule-based chatbot using Python  
+- 📊 **Student-Academic-Performance-Analyzer** – Academic tool using loops & conditionals  
 - 🧠 **DSA Practice Repo** – LeetCode + GFG structured practice  
 - 🌐 **Portfolio Website** – Coming Soon...
 
